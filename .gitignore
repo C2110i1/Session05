@@ -4,3 +4,6 @@
 /out-tsc
 # dependencies
 /node_modules
+
+# config DB
+/configDB
