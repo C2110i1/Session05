@@ -11,6 +11,11 @@ Tiếp đón Arsenal, đội đang xếp đầu bảng với 5 trận toàn th�
 My favorite search engine is [Duck Duck Go](https://media.bongda.com.vn/files/huy.phandang/2022/09/05/1-0629.jpg).
 
 ## HUONG DAN CAI DAT 
+# Getting Started
+* npm
+  ```sh
+  npm install
+  ```
 install npm 
 <details>
   <summary>Table of Contents</summary>
@@ -36,8 +41,4 @@ install npm
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-# Getting Started
-* npm
-  ```sh
-  npm install
-  ```
+
