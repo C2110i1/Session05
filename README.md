@@ -36,3 +36,8 @@ install npm
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+# Getting Started
+* npm
+  ```sh
+  npm install
+  ```
