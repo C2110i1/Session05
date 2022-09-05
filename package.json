@@ -1,0 +1,22 @@
+{
+  "name": "session05",
+  "version": "1.0.0",
+  "description": "Tiếp đón Arsenal, đội đang xếp đầu bảng với 5 trận toàn thắng là thách thức lớn nhất với MU kể từ đầu mùa giải, bất chấp \"Quỷ đỏ\" cũng đạt phong độ vô cùng ấn tượng (3 trận thắng liên tiếp). Rốt cục trong ngày thăng hoa, MU đã xuất sắc giành chiến thắng 3-1 nhờ duyên ghi bàn của tân binh Antony cùng phong độ chói sáng của Marcus Rashford (2 bàn, 1 kiến tạo).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C2110i1/Session05.git"
+  },
+  "author": "Luannv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C2110i1/Session05/issues"
+  },
+  "homepage": "https://github.com/C2110i1/Session05#readme",
+  "dependencies": {
+    "vuex": "^4.0.2"
+  }
+}
